@@ -1,2 +1,2 @@
 # javawrappers
-Object wrappers of primitivetypes in Java
+Object wrappers of primitive types in Java (Integer, Byte, Short, Long, Double, Float, Character, Boolean and Void)
